@@ -2,4 +2,4 @@
 
 Todos los ejercicios se presentan organizados en tarjetas. Cada tarjeta representa un componente específico.
 
-![](src\Captura_navegador.png)
+![Captura_navegador](src/Captura_navegador.png)
