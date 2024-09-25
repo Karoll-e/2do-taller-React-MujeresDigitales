@@ -1,4 +1,4 @@
-# 3er Taller React
+# 2do Taller React
 
 Todos los ejercicios se presentan organizados en tarjetas. Cada tarjeta representa un componente específico.
 
